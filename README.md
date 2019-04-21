@@ -32,3 +32,7 @@ For execution
 ```sh
 $ ./a.out
 ``` 
+## License
+Lovely Professional University
+> LinkedIn: [Debasish Dash](https://www.linkedin.com/in/debasishdash01) &nbsp;&middot;&nbsp;
+ 
