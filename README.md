@@ -1,4 +1,13 @@
-# Os-Assignment
+## Table of content
+
+- [Introduction](#introduction)
+
+- [Requirements](#requirements)
+
+- [Usage](#usage)
+    
+    
+# Introduction
  - Thread 2 finishes before Thread 1
  - Thread 1 finishes before Thread 3
  - Use semaphore(s) to enforce these sychronization rules by adding P() and V() calls 
