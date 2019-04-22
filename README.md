@@ -23,12 +23,17 @@ OS-Assignment
  
 ## Usage
 
-For compilation
+#### For compilation
+ - using semaphores
 ```sh
 $ gcc code.c -lpthread
 ```
+ - without using semaphores
+```sh
+$ gcc without_sem.c -lpthread
+```
 
-For execution
+#### For execution
 ```sh
 $ ./a.out
 ``` 
