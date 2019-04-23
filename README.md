@@ -1,5 +1,4 @@
-OS-Assignment
-=============
+<h1 align="center">OS-Assignment</h1>
 
 ## Table of contents
 
@@ -10,7 +9,7 @@ OS-Assignment
 - [Usage](#usage)
     
     
-# Introduction
+## Introduction
  - Thread 2 finishes before Thread 1
  - Thread 1 finishes before Thread 3
  - Use semaphore(s) to enforce these sychronization rules by adding P() and V() calls 
@@ -23,7 +22,7 @@ OS-Assignment
  
 ## Usage
 
-#### For compilation
+### For compilation
  - using semaphores
 ```sh
 $ gcc code.c -lpthread
@@ -33,7 +32,7 @@ $ gcc code.c -lpthread
 $ gcc without_sem.c -lpthread
 ```
 
-#### For execution
+### For execution
 ```sh
 $ ./a.out
 ``` 
