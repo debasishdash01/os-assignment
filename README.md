@@ -37,6 +37,7 @@ $ gcc without_sem.c -lpthread
 ```sh
 $ ./a.out
 ``` 
+[(Back to top)](#table-of-contents)
 ## License
 Lovely Professional University
 > LinkedIn: [Debasish Dash](https://www.linkedin.com/in/debasishdash01) &nbsp;&middot;&nbsp;
