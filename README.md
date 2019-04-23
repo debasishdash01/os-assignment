@@ -1,5 +1,7 @@
 <h1 align="center">OS-Assignment</h1>
 
+<p align="center"><img src="/code.gif?raw=true"/></p>
+
 ## Table of contents
 
 - [Introduction](#introduction)
@@ -7,7 +9,6 @@
 - [Requirements](#requirements)
 
 - [Usage](#usage)
-    
     
 ## Introduction
  - Thread 2 finishes before Thread 1
@@ -36,6 +37,7 @@ $ gcc without_sem.c -lpthread
 ```sh
 $ ./a.out
 ``` 
+
 [(Back to top)](#table-of-contents)
 ## License
 Lovely Professional University
