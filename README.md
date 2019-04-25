@@ -11,8 +11,8 @@
 - [Usage](#usage)
     
 ## Introduction
- - Thread 2 finishes before Thread 1
- - Thread 1 finishes before Thread 3
+ - Thread 2 having function to print 1 to 10 finishes before Thread 1 having function to print 10 to 20
+ - Thread 1 finishes before Thread 3 having function to print 20 to 30
  - Use semaphore(s) to enforce these sychronization rules by adding P() and V() calls 
  - Finally, you must include sem create calls in suitable places to create and initialize the semaphores. 
  - Use sem create() calls show the intial semaphore value for each newly created semaphore. 
