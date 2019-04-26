@@ -17,7 +17,7 @@
  - Finally, you must include sem create calls in suitable places to create and initialize the semaphores. 
  - Use sem create() calls show the intial semaphore value for each newly created semaphore. 
  - Do not use any synchronization primitives or techniques other than sempahores. 
- - code.c is the main file which achieve the goal. without_sem.c is used to illustrate the problem which arises when we don't use semaphores 
+ - <em>code.c is the main file which achieve the goal. without_sem.c is used to illustrate the problem which arises when we don't use semaphores</em> 
 ## Requirements
  - `gcc compiler`
  
